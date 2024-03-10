@@ -1,5 +1,5 @@
 {
-  "name": "webchain",
+  "name": "webchainnews",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lanjlon/webchain"
+    "url": "https://github.com/lanjlon/webchainnews"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lanjlon/webchain/issues"
+    "url": "https://github.com/lanjlon/webchainnews/issues"
   },
-  "homepage": "https://github.com/lanjlon/webchain#readme",
+  "homepage": "https://github.com/lanjlon/webchainnews#readme",
   "dependencies": {
     "starchain": "^1.0.3"
   }
